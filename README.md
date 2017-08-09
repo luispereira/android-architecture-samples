@@ -8,12 +8,12 @@ Additional libs used:
  - Retrofit
  - Dagger 2
 
-##MVC
+## MVC
  - https://github.com/luispereira/mvc-moviesearch
 
-##MVP
+## MVP
  - https://github.com/luispereira/mvp-moviesearch
 
 
-##MVVM 
+## MVVM 
  - https://github.com/luispereira/mvvm-moviesearch
